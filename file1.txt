@@ -1,7 +1,0 @@
-hi this is test
-
-
-
-<html>
-<p>  Test body </p>
-</html>
